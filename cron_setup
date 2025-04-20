@@ -1,0 +1,4 @@
+1. crontab -e
+2. https://i-practice.co.uk/task-reminder-message
+3. sudo /sbin/chkconfig crond on
+4. sudo /sbin/service crond start

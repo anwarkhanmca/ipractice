@@ -1,0 +1,11 @@
+<p>Hi</p>
+
+<p>This is [cities.city_name] here.</p>
+
+<p>I have completed CK Editor Template with adding placeholder at cursor position.</p>
+
+<p>Regards</p>
+
+<p>[cities.city_id]</p>
+
+<p>[practice_details.fax_no]</p>

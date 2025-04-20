@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>404 Not Found</title>
+<link href="/css/mps_style.css" rel="stylesheet" type="text/css" />
+<link rel="icon" type="image/png" href="/img/favicon.ico" />
+<style>
+*{margin:0; padding:0;}
+a{text-decoration:none;}
+</style>
+</head>
+<body>
+<div class="top_brdr"></div>
+<!--Header Start-->  
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+    
+    <script>
+   
+   // $("#features").on('click', function() {
+    function featuresfun() {
+       
+    //alert('features');
+    //window.location.href = "/";
+    $("html, body").animate({ scrollTop: 450 }, 2000);
+    
+     }
+
+
+function pricingfun() {
+    //alert('pricingfun');
+    //window.location.href = "/";
+     $('html, body').animate({
+        scrollTop: $("#pricing_div").offset().top
+    }, 2000);
+}
+//});
+    </script>
+
+
+<div class="header">
+<div class="wrapper1">
+
+ <div class="main_logo"><a href="/"><img src="/img/logo.jpg" alt="" /></a></div>
+ <div class="hdr_menu">
+ 
+    <ul>
+        <li><a href="/" >home</a></li>
+        <li ><a href="#"  onclick="return featuresfun()"> Features </a></li>
+        <li><a href="#"  onclick="return pricingfun()">Pricing</a></li>
+        <li><a href="/contact" >Contact</a></li>
+        <li><a href="/login">sign In</a></li>
+        <li><a href="/admin-signup">Sign up</a></li>
+
+ 
+    </ul>
+    <div class="clr"></div>
+ </div>
+ <div class="clr"></div>
+ 
+  </div>
+</div>
+<!--Header End--> 
+
+
+<div class="pagentfndsec">
+  <div class="wrapper1">
+    
+  <div class="smilesec"><img src="/img/smile_img.jpg" alt="" /></div>
+  <div class="pgentright_sec">
+  
+      <p class="sry_con">Sorry the page you are looking for cannot be found.</p>
+    <p class="pls_con">Please refresh the page and try again</p>
+  
+  
+  </div>
+  <div class="clr"></div>
+  
+  
+  
+  
+  
+  
+  
+  
+    <div class="clr"></div>
+  </div>
+</div>
+
+
+<div class="wrapper1">
+  
+<!--Footer Start-->  
+<div class="footer">
+        
+          <div class="footer_lft_sec">
+            <a href="/"><img src="/img/footer_logo.jpg" alt="" /></a>
+          </div>
+          
+          <div class="footer_rgt_sec">
+          
+              <div class="footer_listing">
+              
+                  <ul>
+                      <li><a href="#">forgot password</a></li>
+                      <li><a href="#">pricing</a></li>
+                  </ul>
+              </div>
+              
+              
+              <div class="footer_listing">
+              
+                  <ul>
+                      <li><a href="#">contact</a></li>
+                      <li><a href="#">support & sales</a></li>
+                  </ul>
+              </div>
+              
+              
+              <div class="footer_listing">
+              
+                  <ul>
+                      <li><a href="#">privacy</a></li>
+                      <li><a href="#">terms and conditions</a></li>
+                  </ul>
+              </div>
+              <div class="clr"></div>
+          
+          
+          </div>
+          <div class="clr"></div>
+        
+        
+        </div><!--Footer End-->
+
+</div>
+</body>
+</html>

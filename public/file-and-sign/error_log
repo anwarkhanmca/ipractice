@@ -1,0 +1,216 @@
+[18-Nov-2015 05:21:09 Etc/GMT] PHP Parse error:  syntax error, unexpected '"&Signer="' (T_CONSTANT_ENCAPSED_STRING) in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple.php on line 47
+[20-Nov-2015 04:52:56 Etc/GMT] PHP Warning:  include(include/DropboxUploader.php): failed to open stream: No such file or directory in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 33
+[20-Nov-2015 04:52:56 Etc/GMT] PHP Warning:  include(include/DropboxUploader.php): failed to open stream: No such file or directory in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 33
+[20-Nov-2015 04:52:56 Etc/GMT] PHP Warning:  include(): Failed opening 'include/DropboxUploader.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 33
+[20-Nov-2015 04:52:56 Etc/GMT] PHP Fatal error:  Class 'DropboxUploader' not found in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 35
+[20-Nov-2015 04:53:01 Etc/GMT] PHP Warning:  include(include/DropboxUploader.php): failed to open stream: No such file or directory in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 33
+[20-Nov-2015 04:53:01 Etc/GMT] PHP Warning:  include(include/DropboxUploader.php): failed to open stream: No such file or directory in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 33
+[20-Nov-2015 04:53:01 Etc/GMT] PHP Warning:  include(): Failed opening 'include/DropboxUploader.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 33
+[20-Nov-2015 04:53:01 Etc/GMT] PHP Fatal error:  Class 'DropboxUploader' not found in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 35
+[20-Nov-2015 04:53:21 Etc/GMT] PHP Warning:  include(include/DropboxUploader.php): failed to open stream: No such file or directory in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 33
+[20-Nov-2015 04:53:21 Etc/GMT] PHP Warning:  include(include/DropboxUploader.php): failed to open stream: No such file or directory in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 33
+[20-Nov-2015 04:53:21 Etc/GMT] PHP Warning:  include(): Failed opening 'include/DropboxUploader.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 33
+[20-Nov-2015 04:53:21 Etc/GMT] PHP Fatal error:  Class 'DropboxUploader' not found in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 35
+[20-Nov-2015 04:54:11 Etc/GMT] PHP Warning:  include(include/DropboxUploader.php): failed to open stream: No such file or directory in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 33
+[20-Nov-2015 04:54:11 Etc/GMT] PHP Warning:  include(include/DropboxUploader.php): failed to open stream: No such file or directory in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 33
+[20-Nov-2015 04:54:11 Etc/GMT] PHP Warning:  include(): Failed opening 'include/DropboxUploader.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 33
+[20-Nov-2015 04:54:11 Etc/GMT] PHP Fatal error:  Class 'DropboxUploader' not found in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 35
+[20-Nov-2015 04:55:01 Etc/GMT] PHP Warning:  include(include/DropboxUploader.php): failed to open stream: No such file or directory in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 33
+[20-Nov-2015 04:55:01 Etc/GMT] PHP Warning:  include(include/DropboxUploader.php): failed to open stream: No such file or directory in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 33
+[20-Nov-2015 04:55:01 Etc/GMT] PHP Warning:  include(): Failed opening 'include/DropboxUploader.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 33
+[20-Nov-2015 04:55:01 Etc/GMT] PHP Fatal error:  Class 'DropboxUploader' not found in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 35
+[20-Nov-2015 04:55:04 Etc/GMT] PHP Warning:  include(include/DropboxUploader.php): failed to open stream: No such file or directory in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 33
+[20-Nov-2015 04:55:04 Etc/GMT] PHP Warning:  include(include/DropboxUploader.php): failed to open stream: No such file or directory in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 33
+[20-Nov-2015 04:55:04 Etc/GMT] PHP Warning:  include(): Failed opening 'include/DropboxUploader.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 33
+[20-Nov-2015 04:55:04 Etc/GMT] PHP Fatal error:  Class 'DropboxUploader' not found in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 35
+[20-Nov-2015 04:56:00 Etc/GMT] PHP Warning:  include(include/DropboxUploader.php): failed to open stream: No such file or directory in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 33
+[20-Nov-2015 04:56:00 Etc/GMT] PHP Warning:  include(include/DropboxUploader.php): failed to open stream: No such file or directory in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 33
+[20-Nov-2015 04:56:00 Etc/GMT] PHP Warning:  include(): Failed opening 'include/DropboxUploader.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 33
+[20-Nov-2015 04:56:00 Etc/GMT] PHP Fatal error:  Class 'DropboxUploader' not found in /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php on line 35
+[20-Nov-2015 05:02:36 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php:195
+Stack trace:
+#0 /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php(122): DropboxUploader->login()
+#1 /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php(17): DropboxUploader->upload('ds_files/pdf_fi...', 'Signed Document...')
+#2 /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php(37): uploadx('ds_files/pdf_fi...', 'Signed Document...', Object(DropboxUploader))
+#3 {main}
+  thrown in /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php on line 195
+[20-Nov-2015 05:03:54 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php:195
+Stack trace:
+#0 /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php(122): DropboxUploader->login()
+#1 /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php(17): DropboxUploader->upload('ds_files/pdf_fi...', '/laboratory-rep...')
+#2 /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php(37): uploadx('ds_files/pdf_fi...', '/', Object(DropboxUploader))
+#3 {main}
+  thrown in /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php on line 195
+[20-Nov-2015 05:37:27 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php:195
+Stack trace:
+#0 /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php(122): DropboxUploader->login()
+#1 /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php(17): DropboxUploader->upload('ds_files/pdf_fi...', '/laboratory-rep...')
+#2 /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php(37): uploadx('ds_files/pdf_fi...', '/', Object(DropboxUploader))
+#3 {main}
+  thrown in /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php on line 195
+[20-Nov-2015 05:37:34 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php:195
+Stack trace:
+#0 /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php(122): DropboxUploader->login()
+#1 /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php(17): DropboxUploader->upload('ds_files/pdf_fi...', '/laboratory-rep...')
+#2 /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php(37): uploadx('ds_files/pdf_fi...', '/', Object(DropboxUploader))
+#3 {main}
+  thrown in /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php on line 195
+[20-Nov-2015 05:37:48 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php:195
+Stack trace:
+#0 /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php(122): DropboxUploader->login()
+#1 /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php(17): DropboxUploader->upload('ds_files/pdf_fi...', '/laboratory-rep...')
+#2 /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php(37): uploadx('ds_files/pdf_fi...', '/', Object(DropboxUploader))
+#3 {main}
+  thrown in /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php on line 195
+[20-Nov-2015 05:40:31 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php:195
+Stack trace:
+#0 /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php(122): DropboxUploader->login()
+#1 /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php(17): DropboxUploader->upload('ds_files/pdf_fi...', 'Signed Document...')
+#2 /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php(37): uploadx('ds_files/pdf_fi...', 'Signed Document...', Object(DropboxUploader))
+#3 {main}
+  thrown in /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php on line 195
+[20-Nov-2015 05:53:00 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php:195
+Stack trace:
+#0 /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php(122): DropboxUploader->login()
+#1 /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php(17): DropboxUploader->upload('ds_files/pdf_fi...', 'Signed Document...')
+#2 /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php(37): uploadx('ds_files/pdf_fi...', 'Signed Document...', Object(DropboxUploader))
+#3 {main}
+  thrown in /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php on line 195
+[20-Nov-2015 05:54:34 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php:195
+Stack trace:
+#0 /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php(122): DropboxUploader->login()
+#1 /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php(17): DropboxUploader->upload('ds_files/pdf_fi...', 'Signed Document...')
+#2 /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php(37): uploadx('ds_files/pdf_fi...', 'Signed Document...', Object(DropboxUploader))
+#3 {main}
+  thrown in /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php on line 195
+[20-Nov-2015 06:25:42 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php:195
+Stack trace:
+#0 /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php(122): DropboxUploader->login()
+#1 /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php(17): DropboxUploader->upload('ds_files/pdf_fi...', './Signed Docume...')
+#2 /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php(37): uploadx('ds_files/pdf_fi...', './Signed Docume...', Object(DropboxUploader))
+#3 {main}
+  thrown in /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php on line 195
+[20-Nov-2015 19:15:02 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/document-sign-multiple.php on line 204
+[20-Nov-2015 19:15:02 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/document-sign-multiple.php on line 205
+[21-Nov-2015 05:34:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '"&Signer="' (T_CONSTANT_ENCAPSED_STRING) in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple.php on line 45
+[21-Nov-2015 05:34:17 Etc/GMT] PHP Parse error:  syntax error, unexpected '"&Signer="' (T_CONSTANT_ENCAPSED_STRING) in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple.php on line 45
+[21-Nov-2015 05:42:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '"&Signer="' (T_CONSTANT_ENCAPSED_STRING) in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple.php on line 45
+[21-Nov-2015 05:42:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '"&Signer="' (T_CONSTANT_ENCAPSED_STRING) in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple.php on line 45
+[21-Nov-2015 05:42:50 Etc/GMT] PHP Parse error:  syntax error, unexpected '"&Signer="' (T_CONSTANT_ENCAPSED_STRING) in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple.php on line 45
+[21-Nov-2015 05:42:53 Etc/GMT] PHP Parse error:  syntax error, unexpected '"&Signer="' (T_CONSTANT_ENCAPSED_STRING) in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple.php on line 45
+[21-Nov-2015 08:04:56 Etc/GMT] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/inertweb/public_html/sign/file-and-sign/ajax_image.php on line 25
+[21-Nov-2015 10:17:10 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple.php on line 125
+[21-Nov-2015 10:22:26 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple.php on line 125
+[21-Nov-2015 10:25:46 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple.php on line 125
+[21-Nov-2015 10:32:10 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple.php on line 125
+[21-Nov-2015 12:36:13 Etc/GMT] PHP Warning:  mysql_connect(): Too many connections in /home/inertweb/public_html/sign/file-and-sign/include/config.inc.php on line 24
+[21-Nov-2015 12:36:34 Etc/GMT] PHP Warning:  mysql_connect(): Too many connections in /home/inertweb/public_html/sign/file-and-sign/include/config.inc.php on line 24
+[21-Nov-2015 13:08:36 Etc/GMT] PHP Warning:  mysql_connect(): Too many connections in /home/inertweb/public_html/sign/file-and-sign/include/config.inc.php on line 24
+[21-Nov-2015 13:23:57 Etc/GMT] PHP Warning:  mysql_connect(): Too many connections in /home/inertweb/public_html/sign/file-and-sign/include/config.inc.php on line 24
+[21-Nov-2015 13:26:11 Etc/GMT] PHP Warning:  mysql_connect(): Too many connections in /home/inertweb/public_html/sign/file-and-sign/include/config.inc.php on line 24
+[21-Nov-2015 13:36:22 Etc/GMT] PHP Warning:  mysql_connect(): Too many connections in /home/inertweb/public_html/sign/file-and-sign/include/config.inc.php on line 24
+[21-Nov-2015 15:35:45 Etc/GMT] PHP Warning:  mysql_connect(): Too many connections in /home/inertweb/public_html/sign/file-and-sign/include/config.inc.php on line 24
+[21-Nov-2015 15:36:04 Etc/GMT] PHP Warning:  mysql_connect(): Too many connections in /home/inertweb/public_html/sign/file-and-sign/include/config.inc.php on line 24
+[23-Nov-2015 10:25:04 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/index.php on line 158
+[23-Nov-2015 10:25:04 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/index.php on line 219
+[23-Nov-2015 11:06:42 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php:195
+Stack trace:
+#0 /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php(122): DropboxUploader->login()
+#1 /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php(17): DropboxUploader->upload('ds_files/pdf_fi...', '/laboratory-rep...')
+#2 /home/inertweb/public_html/sign/file-and-sign/upload-to-DrpBx.php(37): uploadx('ds_files/pdf_fi...', '/', Object(DropboxUploader))
+#3 {main}
+  thrown in /home/inertweb/public_html/sign/file-and-sign/include/DropboxUploader.php on line 195
+[23-Nov-2015 11:40:05 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/index.php on line 158
+[23-Nov-2015 11:40:05 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/index.php on line 219
+[28-Nov-2015 17:06:04 Etc/GMT] PHP Warning:  file_put_contents(): Only 135168 of 137691 bytes written, possibly out of free disk space in /home/inertweb/public_html/sign/file-and-sign/ajax_image.php on line 26
+[29-Nov-2015 10:42:28 Etc/GMT] PHP Warning:  file_get_contents(ds_files/viewbill-1448793745.pdf): failed to open stream: No such file or directory in /home/inertweb/public_html/sign/file-and-sign/include/function.php on line 865
+[29-Nov-2015 10:44:43 Etc/GMT] PHP Warning:  file_get_contents(ds_files/adebisi-1448793881.pdf): failed to open stream: No such file or directory in /home/inertweb/public_html/sign/file-and-sign/include/function.php on line 865
+[29-Nov-2015 10:59:10 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/signed-signature.php on line 140
+[29-Nov-2015 10:59:10 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/signed-signature.php on line 200
+[29-Nov-2015 11:01:06 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/share-document.php on line 140
+[29-Nov-2015 11:01:06 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/share-document.php on line 199
+[29-Nov-2015 11:05:14 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/share-document.php on line 140
+[29-Nov-2015 11:05:14 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/share-document.php on line 199
+[29-Nov-2015 11:13:09 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/signed-signature.php on line 140
+[29-Nov-2015 11:13:09 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/signed-signature.php on line 200
+[29-Nov-2015 11:13:15 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/signed-signature.php on line 140
+[29-Nov-2015 11:13:15 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/signed-signature.php on line 200
+[29-Nov-2015 11:13:46 Etc/GMT] PHP Warning:  mysql_num_rows([01-Dec-2015 03:52:22 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/sign-a-document.php on line 287
+[01-Dec-2015 03:52:22 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/sign-a-document.php on line 288
+[01-Dec-2015 04:33:43 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/share-document.php on line 140
+[01-Dec-2015 04:33:43 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/share-document.php on line 199
+[01-Dec-2015 10:19:26 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 311
+[01-Dec-2015 10:19:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 311
+[01-Dec-2015 10:20:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 311
+[01-Dec-2015 10:20:38 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 311
+[01-Dec-2015 10:21:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 311
+[01-Dec-2015 10:21:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 311
+[01-Dec-2015 10:22:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 311
+[01-Dec-2015 10:22:42 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 311
+[01-Dec-2015 10:29:17 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 312
+[01-Dec-2015 10:29:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 312
+[01-Dec-2015 10:32:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 313
+[01-Dec-2015 10:32:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 313
+[01-Dec-2015 10:36:17 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 316
+[01-Dec-2015 10:36:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 316
+[01-Dec-2015 10:36:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 316
+[01-Dec-2015 10:36:39 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 316
+[01-Dec-2015 10:36:41 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 316
+[01-Dec-2015 10:37:08 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 316
+[01-Dec-2015 10:37:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 316
+[01-Dec-2015 10:37:13 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 316
+[01-Dec-2015 10:37:50 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 316
+[01-Dec-2015 10:37:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 316
+[01-Dec-2015 10:37:52 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 316
+[01-Dec-2015 10:37:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 316
+[01-Dec-2015 10:37:55 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 316
+[01-Dec-2015 10:37:55 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 316
+[01-Dec-2015 10:37:56 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 316
+[01-Dec-2015 10:37:57 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 316
+[01-Dec-2015 10:39:08 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 316
+[01-Dec-2015 10:39:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 316
+[01-Dec-2015 10:39:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 316
+[01-Dec-2015 10:41:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 316
+[01-Dec-2015 10:41:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 316
+[01-Dec-2015 10:41:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 316
+[01-Dec-2015 10:41:35 Etc/GMT] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple.php on line 25
+[01-Dec-2015 10:41:43 Etc/GMT] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/inertweb/public_html/sign/file-and-sign/ajax_image.php on line 26
+[01-Dec-2015 11:03:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 313
+[01-Dec-2015 11:08:47 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 190
+[01-Dec-2015 11:23:33 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 190
+[01-Dec-2015 11:30:03 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 191
+[01-Dec-2015 11:34:12 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 191
+[01-Dec-2015 11:39:08 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 192
+[02-Dec-2015 11:45:28 Etc/GMT] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/inertweb/public_html/sign/file-and-sign/pdf-to-image.php on line 29
+[02-Dec-2015 11:50:19 Etc/GMT] PHP Parse error:  syntax error, unexpected ''.$ImageName1.'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/inertweb/public_html/sign/file-and-sign/pdf-to-image.php on line 40
+[02-Dec-2015 11:55:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '$status' (T_VARIABLE) in /home/inertweb/public_html/sign/file-and-sign/pdf-to-image.php on line 40
+[03-Dec-2015 02:45:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 310
+[03-Dec-2015 02:45:11 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 310
+[03-Dec-2015 02:47:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 310
+[03-Dec-2015 02:47:38 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 310
+[03-Dec-2015 11:59:06 Etc/GMT] PHP Warning:  file_get_contents(ds_files/laboratory-report-1449143943.pdf): failed to open stream: No such file or directory in /home/inertweb/public_html/sign/file-and-sign/include/function.php on line 865
+[03-Dec-2015 12:01:01 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/share-document.php on line 140
+[03-Dec-2015 12:01:01 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/share-document.php on line 199
+[04-Dec-2015 20:46:15 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 310
+[04-Dec-2015 20:46:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 310
+[04-Dec-2015 20:46:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 310
+[04-Dec-2015 20:46:26 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 310
+[04-Dec-2015 20:46:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 310
+[04-Dec-2015 20:46:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 310
+[04-Dec-2015 20:46:35 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 310
+[05-Dec-2015 19:07:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 310
+[05-Dec-2015 19:07:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 310
+[05-Dec-2015 19:14:31 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 310
+[05-Dec-2015 19:14:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 310
+[05-Dec-2015 19:22:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 310
+[05-Dec-2015 19:22:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 310
+[05-Dec-2015 19:23:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 310
+[05-Dec-2015 19:23:35 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/inertweb/public_html/sign/file-and-sign/ajax_image-multiple-with-signer.php on line 310
+[10-Dec-2015 11:30:53 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/share-document.php on line 140
+[10-Dec-2015 11:30:53 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/share-document.php on line 199
+[10-Dec-2015 11:31:23 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/share-document.php on line 140
+[10-Dec-2015 11:31:23 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/share-document.php on line 199
+[11-Dec-2015 03:19:51 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/share-document.php on line 140
+[11-Dec-2015 03:19:51 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/share-document.php on line 199
+[11-Dec-2015 07:19:48 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/share-document.php on line 140
+[11-Dec-2015 07:19:48 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/inertweb/public_html/sign/file-and-sign/share-document.php on line 199

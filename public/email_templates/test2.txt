@@ -1,0 +1,11 @@
+<p>[ch_logins.practice_id]</p>
+
+<p>[ch_logins.email]</p>
+
+<p>[ch_logins.password]</p>
+
+<p>[ch_logins.presenter_id]</p>
+
+<p>[ch_logins.auth_code]</p>
+
+<p>[ch_logins.created]</p>

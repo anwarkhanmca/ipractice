@@ -1,0 +1,1 @@
+<p>[address_types.created][address_types.title][address_types.short_name]</p>

@@ -1,0 +1,24 @@
+
+.custom_chk input[type=checkbox] {
+display:none;
+cursor: pointer;
+}
+ 
+.custom_chk input[type=checkbox] + label
+{
+background:url(../img/checkbox.png) no-repeat 0 0;
+height: 18px;
+width: 100%;
+display:inline-block;
+padding-left: 25px;
+cursor: pointer;
+}
+.custom_chk input[type=checkbox]:checked + label
+{
+background:url(../img/checkbox.png) no-repeat 0 -48px;
+height: 18px;
+width: 100%;
+/* width: 18px; */
+display:inline-block;
+padding-left: 25px;
+}

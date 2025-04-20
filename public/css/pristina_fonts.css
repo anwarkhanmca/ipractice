@@ -1,0 +1,5 @@
+@font-face {
+	font-family: 'PRISTINA';
+	src: url('./fonts/PRISTINA.eot');
+	src: local('PRISTINA'), url('./fonts/PRISTINA.woff') format('woff'), url('./fonts/PRISTINA.ttf') format('truetype');
+}

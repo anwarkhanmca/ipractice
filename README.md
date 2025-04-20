@@ -1,2 +1,1 @@
-README File for ipractice
-
+# My project's README
