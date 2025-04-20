@@ -1,0 +1,82 @@
+"app/commands",
+
+============= AWS Server ===========
+Url : https ://us-west-2.console.aws.amazon.com/console/home?nc2=h_m_mc&region=us-west-2
+Username : abel02@icloud.com
+Password : Manager200
+Elastic IP : 52.30.247.72
+
+============ Domain CPanel =======
+Url : 123-reg.co.uk
+Username : asiamah02@yahoo.co.uk
+Password : 12345678
+
+Site Url : i-practice.co.uk
+
+
+============ Database Details =======
+root / MaNageeer@2
+
+Database  => mpmsdb
+Username  => mpmdbusr
+Password  => b=wr.G-GR-&9*8
+
+============ Ssh Access =======
+ssh -i "ipracticefreetire.pem" ec2-user@52.30.247.72
+
+===================File and Sign DB Details==============================
+Database  => fileandsign
+Username  => fileandsign
+Password  => b=wr.G-GR-&9*8
+
+================ FTP Details ==================
+host: 52.30.247.72
+user: ipracticusr
+pass: 3$tGh89!zxFW
+
+
+
+Hello Guys,
+
+All the details are given below..
+
+A. Database :
+url : http://pma.i-practice.co.uk
+Database  => mpmsdb
+Username  => mpmdbusr
+Password  => b=wr.G-GR-&9*8
+
+B. Git Details :
+Url : https://github.com
+Username : mpmanwar
+Password : anwar@123
+
+1. Clone all the files using Git into your local directory-> 
+    "git clone https://github.com/appsbee/MyPracticeManager.git"
+2. Create a new branch for you, like "anwar". (e.g. "git checkout -b anwar")
+
+Follow the below step to upload the files into git repository
+1. git add -A
+2. git commit -a -m "your message"
+3. git pull origin dharmendra
+4. git push origin dharmendra
+5. mpmanwar (username)
+6. anwar@123 (password)
+
+Follow the below step to upload the files into server
+1. keep the attached file "ipracticefreetire.pem" in your mechine any where.
+2. Open the terminal and go to this directory (e.g. cd /var/www/) where you keep this file.
+3. use it -> ssh -i "ipracticefreetire.pem" ec2-user@52.30.247.72
+4. Then use the command "sudo su"
+5. cd /var/www/html/MyPracticeManager
+6. git pull origin dharmendra
+7. mpnoappsbee (username)
+8. mono123 (password)
+
+C. Site Url : i-practice.co.uk
+
+
+If you have any confusion, please get touch with me.
+
+Thanks
+Anwar
