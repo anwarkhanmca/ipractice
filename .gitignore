@@ -1,0 +1,17 @@
+/bootstrap/compiled.php
+/bootstrap/start.php
+vendor/*
+app/storage/*
+composer.phar
+composer.lock
+.env.*.php
+.env.php
+.DS_Store
+Thumbs.db
+public/uploads/*
+public/uploader/*
+public/ckuploads/*
+document/*
+app/config/database.php
+public/file-and-sign/include/config.inc.php
+app/third_party/*
